@@ -9,6 +9,7 @@
   <button @click="changeInfo">修改人的信息</button>
 </template>
 
+
 <script>
 import { reactive } from 'vue';
 export default {
