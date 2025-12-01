@@ -5,7 +5,7 @@
       没事
     </template>
     <template v-slot:asd>
-      love you1212
+      love you1
     </template>
   </Demo>
 </template>
